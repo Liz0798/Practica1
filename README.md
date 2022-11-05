@@ -1,2 +1,2 @@
 # Practica1
-Toma de requerimientos de una pagina web
+Toma de requerimientos para una pagina web
